@@ -40,7 +40,7 @@ cd ../server && npm install
 ```
 
 ### 2) Configure environment
-Create `/home/runner/work/Ai-jobprep/Ai-jobprep/server/.env`:
+Create `server/.env`:
 ```env
 PORT=3000
 MONGO_URI=<your-mongodb-connection-string>
@@ -53,13 +53,13 @@ Open two terminals:
 
 **Terminal A — backend**
 ```bash
-cd /home/runner/work/Ai-jobprep/Ai-jobprep/server
+cd server
 npm run dev
 ```
 
 **Terminal B — frontend**
 ```bash
-cd /home/runner/work/Ai-jobprep/Ai-jobprep/client
+cd client
 npm run dev
 ```
 
