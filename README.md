@@ -31,7 +31,7 @@ Ai-jobprep/
 └── PROJECT_SETUP_GUIDE.md   # setup walkthrough and file-by-file notes
 ```
 
-## Quick start (2 terminals, 2 minutes)
+## Quick start (2 terminals)
 ### 1) Install dependencies
 ```bash
 cd /path/to/Ai-jobprep
