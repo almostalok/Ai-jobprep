@@ -84,7 +84,7 @@ Base path: `http://localhost:3000/api/auth`
 
 ### Server
 - `npm run dev` — run backend with nodemon
-- `npm test` — placeholder script (currently fails intentionally)
+- `npm test` — placeholder script (tests not implemented yet)
 
 ## What to build next
 - add AI interview session APIs + prompts
